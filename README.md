@@ -16,3 +16,4 @@ Para rodar o projeto:
 ```bash
 npm start
 ```
+Teste de configuração
